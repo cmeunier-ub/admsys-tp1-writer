@@ -1,5 +1,6 @@
 <?php
-$BD_HOST = "localhost";
-$BD_PORT = 3306;
-$BD_USER = "";
-$BD_PASS = "";
+$DB_HOST = "localhost";
+$DB_PORT = 3306;
+$DB_NAME = "";
+$DB_USER = "";
+$DB_PASS = "";
