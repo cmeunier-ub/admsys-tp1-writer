@@ -6,6 +6,6 @@
     <title>LMDCorp - Counter</title>
 </head>
 <body>
-    <h1>Merci pour votre visite !<<h2>
+    <h1>Merci pour votre visite !<h1>
 </body>
 </html>
